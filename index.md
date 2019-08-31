@@ -1,3 +1,13 @@
+# Myky's First CS193 Homework
+
+My favorite things about CS193:
+- It is extremely helpful
+- The instructors are very nice and funny
+- Gives me lots of information about how to prepare myself for resumes, interviews, and career fairs
+- Introduces me to tools used in CS
+- It's cool (:
+- Slides are usually funny
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
